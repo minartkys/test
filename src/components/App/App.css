@@ -1,0 +1,72 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.name {
+  margin: 0 auto;
+}
+
+.about_me {
+  margin: 0 auto;
+  margin-top: 20px;
+  color: yellow;
+  margin-bottom: 100px;
+}
+
+.about_card {
+  margin: 0 auto;
+  margin-top: 20px;
+  color: yellow;
+  margin-bottom: 100px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  border: 3px red solid;
+  margin-bottom: 50px;
+}
+
+.card_img {
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 20%;
+}
+
+.card_text {
+  margin: 0 auto;
+}
+
+.card_cost {
+  margin: 0 auto;
+  color: red;
+}
+
+.otzivy {
+  margin: 0 auto;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.otzivy_title {
+  margin: 0 auto;
+}
+
+.otzivy_text {
+  margin: 0 auto;
+  color: green;
+}

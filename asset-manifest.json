@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.9ed34e2b.css",
+    "main.js": "/test/static/js/main.809f6422.js",
+    "static/js/787.a44ea50b.chunk.js": "/test/static/js/787.a44ea50b.chunk.js",
+    "static/media/1.jpg": "/test/static/media/1.f1a8e162f41229ad8db2.jpg",
+    "static/media/Ксюша.jpg": "/test/static/media/Ксюша.5039e6840be649094fa2.jpg",
+    "static/media/Космос.jpg": "/test/static/media/Космос.7dd30e45047594420044.jpg",
+    "index.html": "/test/index.html",
+    "main.9ed34e2b.css.map": "/test/static/css/main.9ed34e2b.css.map",
+    "main.809f6422.js.map": "/test/static/js/main.809f6422.js.map",
+    "787.a44ea50b.chunk.js.map": "/test/static/js/787.a44ea50b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed34e2b.css",
+    "static/js/main.809f6422.js"
+  ]
+}
